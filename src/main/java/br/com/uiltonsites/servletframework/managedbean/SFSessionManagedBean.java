@@ -1,23 +1,4 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package br.com.uiltonsites.servletframework.managedbean;
-
-import java.util.Enumeration;
-import javax.faces.context.FacesContext;
-import javax.servlet.ServletContext;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpSession;
-import javax.servlet.http.HttpSessionContext;
-
-/**
- * Class that encapsulate the session and add few new methods
- * PS: This file was mapped in META-INF/faces-config.xml to work in JSF as ManagedBean
- *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
- *
  * Licensed to the Apache Software Foundation (ASF) under one
  * or more contributor license agreements.  See the NOTICE file
  * distributed with this work for additional information
@@ -34,7 +15,21 @@ import javax.servlet.http.HttpSessionContext;
  * KIND, either express or implied.  See the License for the
  * specific language governing permissions and limitations
  * under the License.
+ */
+package br.com.uiltonsites.servletframework.managedbean;
+
+import java.util.Enumeration;
+import javax.faces.context.FacesContext;
+import javax.servlet.ServletContext;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpSession;
+import javax.servlet.http.HttpSessionContext;
+
+/**
+ * Class that encapsulate the session and add few new methods
+ * PS: This file was mapped in META-INF/faces-config.xml to work in JSF as ManagedBean
  *
+ * @author Uilton Oliveira <uilton.dev@gmail.com>
  */
 public class SFSessionManagedBean implements HttpSession {
     

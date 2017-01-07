@@ -1,19 +1,4 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package br.com.uiltonsites.servletframework.http;
-
-import br.com.uiltonsites.servletframework.utility.SFJsonHandler;
-import br.com.uiltonsites.servletframework.utility.SFXmlHandler;
-import com.google.gson.Gson;
-
-/**
- * Return the text response from the http request
- *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
- *
  * Licensed to the Apache Software Foundation (ASF) under one
  * or more contributor license agreements.  See the NOTICE file
  * distributed with this work for additional information
@@ -30,7 +15,17 @@ import com.google.gson.Gson;
  * KIND, either express or implied.  See the License for the
  * specific language governing permissions and limitations
  * under the License.
+ */
+package br.com.uiltonsites.servletframework.http;
+
+import br.com.uiltonsites.servletframework.utility.SFJsonHandler;
+import br.com.uiltonsites.servletframework.utility.SFXmlHandler;
+import com.google.gson.Gson;
+
+/**
+ * Return the text response from the http request
  *
+ * @author Uilton Oliveira <uilton.dev@gmail.com>
  */
 public class SFHttpResult {
     public String output = null;

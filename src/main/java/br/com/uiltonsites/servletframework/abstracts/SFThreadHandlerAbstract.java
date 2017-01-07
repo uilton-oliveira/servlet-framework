@@ -1,21 +1,4 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package br.com.uiltonsites.servletframework.abstracts;
-
-import br.com.uiltonsites.servletframework.interfaces.SFThreadHandlerInterface;
-import br.com.uiltonsites.servletframework.utility.SFLogger;
-import br.com.uiltonsites.servletframework.utility.SFQueue;
-
-import java.util.Iterator;
-import java.util.concurrent.ConcurrentLinkedQueue;
-
-/**
- *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
- *
  * Licensed to the Apache Software Foundation (ASF) under one
  * or more contributor license agreements.  See the NOTICE file
  * distributed with this work for additional information
@@ -32,7 +15,19 @@ import java.util.concurrent.ConcurrentLinkedQueue;
  * KIND, either express or implied.  See the License for the
  * specific language governing permissions and limitations
  * under the License.
+ */
+package br.com.uiltonsites.servletframework.abstracts;
+
+import br.com.uiltonsites.servletframework.interfaces.SFThreadHandlerInterface;
+import br.com.uiltonsites.servletframework.utility.SFLogger;
+import br.com.uiltonsites.servletframework.utility.SFQueue;
+
+import java.util.Iterator;
+import java.util.concurrent.ConcurrentLinkedQueue;
+
+/**
  *
+ * @author Uilton Oliveira <uilton.dev@gmail.com>
  */
 public abstract class SFThreadHandlerAbstract extends SFThread implements SFThreadHandlerInterface {
     

@@ -1,18 +1,4 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package br.com.uiltonsites.servletframework.interfaces;
-
-import br.com.uiltonsites.servletframework.abstracts.SFThread;
-import br.com.uiltonsites.servletframework.utility.SFQueue;
-
-
-/**
- *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
- *
  * Licensed to the Apache Software Foundation (ASF) under one
  * or more contributor license agreements.  See the NOTICE file
  * distributed with this work for additional information
@@ -29,7 +15,16 @@ import br.com.uiltonsites.servletframework.utility.SFQueue;
  * KIND, either express or implied.  See the License for the
  * specific language governing permissions and limitations
  * under the License.
+ */
+package br.com.uiltonsites.servletframework.interfaces;
+
+import br.com.uiltonsites.servletframework.abstracts.SFThread;
+import br.com.uiltonsites.servletframework.utility.SFQueue;
+
+
+/**
  *
+ * @author Uilton Oliveira <uilton.dev@gmail.com>
  */
 public interface SFThreadHandlerInterface {
     

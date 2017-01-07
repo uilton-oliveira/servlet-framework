@@ -1,20 +1,4 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package br.com.uiltonsites.servletframework.utility;
-
-import br.com.uiltonsites.servletframework.abstracts.SFMyLogger;
-import br.com.uiltonsites.servletframework.domain.SFKVBean;
-
-import java.util.HashMap;
-import java.util.Map;
-
-/**
- *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
- *
  * Licensed to the Apache Software Foundation (ASF) under one
  * or more contributor license agreements.  See the NOTICE file
  * distributed with this work for additional information
@@ -31,7 +15,18 @@ import java.util.Map;
  * KIND, either express or implied.  See the License for the
  * specific language governing permissions and limitations
  * under the License.
+ */
+package br.com.uiltonsites.servletframework.utility;
+
+import br.com.uiltonsites.servletframework.abstracts.SFMyLogger;
+import br.com.uiltonsites.servletframework.domain.SFKVBean;
+
+import java.util.HashMap;
+import java.util.Map;
+
+/**
  *
+ * @author Uilton Oliveira <uilton.dev@gmail.com>
  */
 public abstract class SFMemoryConfig extends SFMyLogger {
     private final Map<String, Object> cfg = new HashMap<>();

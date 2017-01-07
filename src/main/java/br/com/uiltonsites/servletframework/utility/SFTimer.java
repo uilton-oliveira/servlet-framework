@@ -1,13 +1,4 @@
-package br.com.uiltonsites.servletframework.utility;
-
-import br.com.uiltonsites.servletframework.abstracts.SFMyLogger;
-
-import java.util.Calendar;
-
-/**
- *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
- *
+/*
  * Licensed to the Apache Software Foundation (ASF) under one
  * or more contributor license agreements.  See the NOTICE file
  * distributed with this work for additional information
@@ -24,7 +15,17 @@ import java.util.Calendar;
  * KIND, either express or implied.  See the License for the
  * specific language governing permissions and limitations
  * under the License.
+ */
+
+package br.com.uiltonsites.servletframework.utility;
+
+import br.com.uiltonsites.servletframework.abstracts.SFMyLogger;
+
+import java.util.Calendar;
+
+/**
  *
+ * @author Uilton Oliveira <uilton.dev@gmail.com>
  */
 public class SFTimer extends SFMyLogger {
 

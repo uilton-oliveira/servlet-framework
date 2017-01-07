@@ -1,21 +1,4 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package br.com.uiltonsites.servletframework.utility;
-
-import org.apache.log4j.Level;
-import org.apache.log4j.Logger;
-import org.slf4j.Marker;
-import org.slf4j.helpers.FormattingTuple;
-import org.slf4j.helpers.MessageFormatter;
-
-/**
- * This class encapsulate an Logger from Log4j to implement an Token.
- *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
- *
  * Licensed to the Apache Software Foundation (ASF) under one
  * or more contributor license agreements.  See the NOTICE file
  * distributed with this work for additional information
@@ -32,7 +15,19 @@ import org.slf4j.helpers.MessageFormatter;
  * KIND, either express or implied.  See the License for the
  * specific language governing permissions and limitations
  * under the License.
+ */
+package br.com.uiltonsites.servletframework.utility;
+
+import org.apache.log4j.Level;
+import org.apache.log4j.Logger;
+import org.slf4j.Marker;
+import org.slf4j.helpers.FormattingTuple;
+import org.slf4j.helpers.MessageFormatter;
+
+/**
+ * This class encapsulate an Logger from Log4j to implement an Token.
  *
+ * @author Uilton Oliveira <uilton.dev@gmail.com>
  */
 public class SFLogger implements org.slf4j.Logger {
 
