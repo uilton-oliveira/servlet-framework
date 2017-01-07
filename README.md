@@ -8,6 +8,7 @@ An Lightweight MVC Framework
 - Running in production environment since 2015, with high amounts of requests.
 - Support RESTful
 - Simple to use, controllers is similar to Spring
+- Permissive license (Apache License, Version 2.0 )
 
 I created this framework alone in 2015, with speed and lightweight in mind, i decided to share it now, so who is interested can learn from it, or use it (i used this in many production projects already)
 I'll keep updating this adding new features and fixing bugs, all suggestions are welcome.
