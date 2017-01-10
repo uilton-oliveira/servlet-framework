@@ -25,7 +25,7 @@ import java.lang.annotation.Target;
 
 /**
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 
 @Retention(RetentionPolicy.RUNTIME)

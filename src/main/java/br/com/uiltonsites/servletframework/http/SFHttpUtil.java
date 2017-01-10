@@ -52,7 +52,7 @@ import org.apache.http.util.EntityUtils;
 
 /**
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public class SFHttpUtil extends SFLifeCycle {
     public static final String TYPE_APPLICATION_XML = "application/xml";

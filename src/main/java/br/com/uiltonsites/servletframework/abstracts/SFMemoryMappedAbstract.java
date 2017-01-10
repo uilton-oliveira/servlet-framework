@@ -34,7 +34,7 @@ import java.nio.channels.FileChannel;
 /**
  * Abstract class to write in an file thought an MemoryMappedFile (good performance)
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public abstract class SFMemoryMappedAbstract extends SFMyLogger {
     protected MappedByteBuffer mappedByteBuffer;

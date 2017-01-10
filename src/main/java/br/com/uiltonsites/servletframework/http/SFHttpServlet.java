@@ -40,7 +40,7 @@ import org.apache.commons.lang3.exception.ExceptionUtils;
 
 /**
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public abstract class SFHttpServlet extends HttpServlet {
 

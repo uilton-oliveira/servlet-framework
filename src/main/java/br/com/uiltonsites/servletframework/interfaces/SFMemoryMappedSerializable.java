@@ -21,7 +21,7 @@ package br.com.uiltonsites.servletframework.interfaces;
 /**
  * Interface to serialize/unserialize an object in an line of MemoryMappedFile
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public interface SFMemoryMappedSerializable {
     public String serialize();

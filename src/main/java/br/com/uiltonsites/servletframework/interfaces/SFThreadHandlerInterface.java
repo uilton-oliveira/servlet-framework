@@ -24,7 +24,7 @@ import br.com.uiltonsites.servletframework.utility.SFQueue;
 
 /**
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public interface SFThreadHandlerInterface {
     

@@ -42,7 +42,7 @@ import org.apache.commons.net.io.CopyStreamListener;
 /**
  * Class used to manage FTP connections
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public class SFFtpUtils extends SFMyLogger implements SFFileTransferUtils, AutoCloseable{
 

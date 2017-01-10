@@ -24,7 +24,7 @@ import org.apache.commons.lang3.math.NumberUtils;
 /**
  *
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public class SFMsisdn extends SFMyLogger {
     

@@ -29,7 +29,7 @@ import java.util.Map;
 
 /**
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public class SFDataTableRequest extends SFMyLogger {
     private int limit;

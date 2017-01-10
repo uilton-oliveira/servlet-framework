@@ -39,7 +39,7 @@ import javax.servlet.http.Part;
  * Container that encapsulate the HttpRequest and HttpResponse
  * and contains few method that make easier to manager requests
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public class SFServletContainer extends SFMyLogger {
 

@@ -27,7 +27,7 @@ import org.slf4j.helpers.MessageFormatter;
 /**
  * This class encapsulate an Logger from Log4j to implement an Token.
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public class SFLogger implements org.slf4j.Logger {
 

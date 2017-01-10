@@ -48,9 +48,9 @@ import org.apache.log4j.Level;
 /**
  * Class that will manager connections to the database, using an connection pool
  * from the server, in case you do not set the jndi name, it will use the
- * file database.properties -> jndi_name
+ * file database.properties / jndi_name
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public class SFQueryHelper extends SFMyLogger {
 
@@ -102,8 +102,7 @@ public class SFQueryHelper extends SFMyLogger {
     }
 
     /**
-     * Create new instance using the jndi_name configured in database.properties
-     * -> jndi_name
+     * Create new instance using the jndi_name configured in database.properties / jndi_name
      */
     public SFQueryHelper() {
         super();

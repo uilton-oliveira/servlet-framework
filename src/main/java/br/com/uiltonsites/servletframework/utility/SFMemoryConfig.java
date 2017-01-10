@@ -26,7 +26,7 @@ import java.util.Map;
 
 /**
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public abstract class SFMemoryConfig extends SFMyLogger {
     private final Map<String, Object> cfg = new HashMap<>();

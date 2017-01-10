@@ -34,7 +34,7 @@ import java.util.Map;
 
 /**
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public class SFDataTableResponse {
 

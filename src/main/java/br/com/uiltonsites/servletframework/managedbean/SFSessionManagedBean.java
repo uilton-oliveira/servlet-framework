@@ -29,7 +29,7 @@ import javax.servlet.http.HttpSessionContext;
  * Class that encapsulate the session and add few new methods
  * PS: This file was mapped in META-INF/faces-config.xml to work in JSF as ManagedBean
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public class SFSessionManagedBean implements HttpSession {
     

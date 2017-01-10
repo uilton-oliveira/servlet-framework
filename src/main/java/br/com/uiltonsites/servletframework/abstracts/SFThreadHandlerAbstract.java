@@ -27,7 +27,7 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 
 /**
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public abstract class SFThreadHandlerAbstract extends SFThread implements SFThreadHandlerInterface {
     

@@ -20,7 +20,7 @@ package br.com.uiltonsites.servletframework.domain;
 
 /**
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public class SFKVBean {
     private String key;

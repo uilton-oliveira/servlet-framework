@@ -21,7 +21,7 @@ package br.com.uiltonsites.servletframework.interfaces;
 /**
  * Interface to read an file of type MemoryMappedFile with callback.
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 @FunctionalInterface
 public interface SFMemoryMappedReader {

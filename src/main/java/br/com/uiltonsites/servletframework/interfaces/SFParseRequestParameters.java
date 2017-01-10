@@ -24,7 +24,7 @@ import br.com.uiltonsites.servletframework.http.SFServletContainer;
 /**
  * Interface to parse an parameter in HttpRequest and populate the object
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public interface SFParseRequestParameters {
     public boolean parseRequest(SFServletContainer hsc);

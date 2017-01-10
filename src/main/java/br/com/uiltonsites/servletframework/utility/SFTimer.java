@@ -25,7 +25,7 @@ import java.util.Calendar;
 
 /**
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public class SFTimer extends SFMyLogger {
 

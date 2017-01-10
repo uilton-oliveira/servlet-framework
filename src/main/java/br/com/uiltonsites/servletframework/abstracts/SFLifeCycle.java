@@ -22,7 +22,7 @@ import br.com.uiltonsites.servletframework.interfaces.SFLifeCycleInterface;
 import br.com.uiltonsites.servletframework.utility.SFLogger;
 
 /**
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public abstract class SFLifeCycle extends SFMyLogger implements SFLifeCycleInterface {
     private String objectName;

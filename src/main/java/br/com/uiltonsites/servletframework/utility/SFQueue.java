@@ -28,7 +28,7 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 /**
  * Abstract class and Thread Safe to manage memory queues
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public abstract class SFQueue<E>{
     protected final ConcurrentLinkedQueue <E> queue = new ConcurrentLinkedQueue<>();

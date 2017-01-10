@@ -20,7 +20,7 @@ package br.com.uiltonsites.servletframework.interfaces;
 
 /**
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 
 @FunctionalInterface

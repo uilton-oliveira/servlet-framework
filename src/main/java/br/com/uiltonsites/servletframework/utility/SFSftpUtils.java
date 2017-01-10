@@ -38,7 +38,7 @@ import org.apache.commons.lang3.StringUtils;
 /**
  * Class used to manage SFTP connections
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public class SFSftpUtils extends SFMyLogger implements SFFileTransferUtils, AutoCloseable {
 

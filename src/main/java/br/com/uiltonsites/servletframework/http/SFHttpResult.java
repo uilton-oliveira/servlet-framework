@@ -25,7 +25,7 @@ import com.google.gson.Gson;
 /**
  * Return the text response from the http request
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public class SFHttpResult {
     public String output = null;

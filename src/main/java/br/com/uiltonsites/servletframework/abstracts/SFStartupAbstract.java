@@ -34,7 +34,7 @@ import javax.annotation.PreDestroy;
  *     This class should be extended only ONE TIME per project.
  * </pre>
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public abstract class SFStartupAbstract extends SFMyLogger implements SFStartupInterface {
     

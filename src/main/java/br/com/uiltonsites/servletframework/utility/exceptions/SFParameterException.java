@@ -22,7 +22,7 @@ import br.com.uiltonsites.servletframework.utility.SFLogger;
 
 /**
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public class SFParameterException extends NullPointerException {
     

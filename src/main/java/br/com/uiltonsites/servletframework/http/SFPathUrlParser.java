@@ -42,7 +42,7 @@ import java.util.List;
 
 /**
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 class PathParser {
 

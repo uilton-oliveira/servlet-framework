@@ -33,7 +33,7 @@ import org.apache.commons.lang3.StringUtils;
 
 /**
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public class SFDataTableConfig extends SFMyLogger {
 

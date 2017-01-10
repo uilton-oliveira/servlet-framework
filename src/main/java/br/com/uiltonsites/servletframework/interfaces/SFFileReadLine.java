@@ -22,7 +22,7 @@ import br.com.uiltonsites.servletframework.utility.exceptions.SFGenericException
 
 /**
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 @FunctionalInterface
 public interface SFFileReadLine {

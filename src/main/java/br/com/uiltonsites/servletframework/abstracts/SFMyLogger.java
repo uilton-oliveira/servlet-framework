@@ -23,7 +23,7 @@ import br.com.uiltonsites.servletframework.utility.SFLogger;
 /**
  * Abstract class to write/receive an instance of SFLogger.
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public abstract class SFMyLogger {
     public SFLogger logger;

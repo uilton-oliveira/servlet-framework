@@ -40,7 +40,7 @@ import org.apache.commons.lang3.RandomStringUtils;
 
 /**
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public class SFFileUtils extends SFMyLogger {
 

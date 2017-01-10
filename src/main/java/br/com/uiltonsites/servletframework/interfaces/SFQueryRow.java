@@ -22,7 +22,7 @@ import java.sql.ResultSet;
 
 /**
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public interface SFQueryRow {
     public boolean readRow(ResultSet rs);

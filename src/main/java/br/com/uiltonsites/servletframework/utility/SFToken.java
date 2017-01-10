@@ -21,6 +21,9 @@ package br.com.uiltonsites.servletframework.utility;
 
 import java.util.Random;
 
+/**
+ * @author Uilton Oliveira - uilton.dev@gmail.com
+ */
 public final class SFToken {
 	private final static int A_ASCII_CODE = 65;
 	private final static  int Z_ASCII_CODE = 90;

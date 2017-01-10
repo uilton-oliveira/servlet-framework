@@ -33,7 +33,7 @@ import javax.el.PropertyNotFoundException;
 
 /**
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public class SFConfig extends SFMyLogger {
    

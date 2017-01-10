@@ -43,7 +43,7 @@ import org.xml.sax.SAXException;
 /**
  * Class to navigate over XML String / file
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public class SFXmlHandler {
     private final String xml;

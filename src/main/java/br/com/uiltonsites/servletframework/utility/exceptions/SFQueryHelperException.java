@@ -22,7 +22,7 @@ package br.com.uiltonsites.servletframework.utility.exceptions;
 
 /**
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public final class SFQueryHelperException extends Exception{
 

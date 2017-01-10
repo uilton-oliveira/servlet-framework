@@ -34,7 +34,7 @@ import java.util.Map;
 /**
  * Class to navigate over JSON String / File
  *
- * @author Uilton Oliveira <uilton.dev@gmail.com>
+ * @author Uilton Oliveira - uilton.dev@gmail.com
  */
 public class SFJsonHandler {
     private final String json;
