@@ -23,8 +23,10 @@ I'll try to make an docummentation soon.
 
 Maven:
 
+```
 <dependency>
   <groupId>br.com.uiltonsites</groupId>
   <artifactId>servlet-framework</artifactId>
   <version>3.0.0</version>
 </dependency>
+```
