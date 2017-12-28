@@ -1,3 +1,7 @@
+[![GitHub issues](https://img.shields.io/github/issues/DarkSupremo/servlet-framework.svg?maxAge=60&style=flat-square)](https://github.com/DarkSupremo/servlet-framework/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/DarkSupremo/servlet-framework.svg?maxAge=60&style=flat-square)](https://github.com/DarkSupremo/servlet-framework/pulls)
+[![Github Releases](https://img.shields.io/github/downloads/DarkSupremo/servlet-framework/total.svg?maxAge=60&style=flat-square)](https://github.com/DarkSupremo/servlet-framework/releases/latest)
+
 # servlet-framework
 
 An Lightweight MVC Framework
